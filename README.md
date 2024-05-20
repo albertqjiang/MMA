@@ -1,7 +1,7 @@
 # MMA
-The official repository for the paper Multilingual Mathematical Autoformalization: https://arxiv.org/abs/2311.03755
+The official repository for the paper Multi-language Diversity Benefits Autoformalization.
 
-The model is hosted at [Internet Archive](https://archive.org/details/mma_33b_params).
+The LLaMA model is hosted at [Internet Archive](https://archive.org/details/mma_33b_params). The Mistral model will be made available upon publication.
 
 The data are in the data folder.
 
